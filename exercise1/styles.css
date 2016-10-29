@@ -8,11 +8,11 @@ body {
 }
 
 #owl {
-    float: none;
+    float: left;
 }
 
 #ball {
-  float: none;
+  float: left;
 }
 #nemo {
   margin-left: auto;
