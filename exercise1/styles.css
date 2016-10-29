@@ -8,7 +8,8 @@ body {
 }
 
 #owl {
-    float: right;
+  margin-left: auto;
+ margin-right: auto;
 }
 
 #ball {
