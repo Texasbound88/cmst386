@@ -12,8 +12,9 @@ body {
 }
 
 #ball {
-  float: none;
+  float: right;
 }
 #nemo {
-  float: none;
+  margin-left: auto;
+ margin-right: auto;
 }
