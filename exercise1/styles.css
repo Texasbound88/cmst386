@@ -15,6 +15,5 @@ body {
   float: none;
 }
 #nemo {
-  margin-left: auto;
- margin-right: auto;
+  float: none;
 }
