@@ -4,11 +4,11 @@ body {
     background-size: cover;
 }
 #disney {
-    float: left;
+    float: none;
 }
 
 #owl {
-    float: left;
+    float: none;
 }
 
 #ball {
