@@ -12,7 +12,7 @@ body {
 }
 
 #ball {
-  float: left;
+  float: none;
 }
 #nemo {
   margin-left: auto;
