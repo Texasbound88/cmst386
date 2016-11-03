@@ -21,4 +21,6 @@ body {
 
 h2{
   text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
 }
