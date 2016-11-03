@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 #disney {
     float: none;
 }
@@ -14,6 +15,7 @@ body {
 #ball {
   float: none;
 }
+
 #nemo {
   margin-left: auto;
  margin-right: auto;
@@ -24,12 +26,39 @@ h2{
   text-decoration: underline;
   font-weight: bold;
 }
+
 p{
   text-align: center;
 }
+
 h3{
   text-align: center;
 }
+
 h1{
   text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: red;
 }
