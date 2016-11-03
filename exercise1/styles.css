@@ -63,3 +63,7 @@ li a:hover {
     background-color: yellow;
     color:black
 }
+
+#center{
+  text-align: center;
+}
