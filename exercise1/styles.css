@@ -52,10 +52,6 @@ ul {
     overflow: hidden;
 }
 
-li {
-    float: left;
-}
-
 li a {
     display: block;
     color: black;
@@ -66,8 +62,4 @@ li a {
 li a:hover {
     background-color: yellow;
     color:black
-}
-
-#center{
-  text-align: center;
 }
