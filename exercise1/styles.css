@@ -52,6 +52,12 @@ ul {
     overflow: hidden;
 }
 
+li {
+    float: left;
+    text-align: center;
+    text-indent: inherit;
+}
+
 li a {
     display: block;
     color: black;
@@ -62,4 +68,8 @@ li a {
 li a:hover {
     background-color: yellow;
     color:black
+}
+
+#center{
+  text-align: center;
 }
