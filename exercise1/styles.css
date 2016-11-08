@@ -29,7 +29,12 @@ h2{
 
 p{
   text-align: center;
-  font-weight: bolder;
+  font-size: 30px;
+}
+
+#bold{
+  text-align: center;
+  font-size: 30px;
 }
 
 h3{
