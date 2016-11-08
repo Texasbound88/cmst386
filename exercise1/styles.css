@@ -1,7 +1,7 @@
 body {
     background: linear-gradient(grey, white);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 
 #disney {
