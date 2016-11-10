@@ -27,6 +27,20 @@ p a:hover {
     color:black
 }
 
+nav {
+  top:10px;
+  border-radius: 25px;
+  border: 4px outset #FFEBCD;
+  font-size: 18px;
+  padding: 4px;
+  font-family: Verdana, Geneva, sans-serif;
+  text-align: center; min-height: 25px;
+}
+
+#home {
+  text-align:center;
+  font-family:courier new;
+}
 #bold{
   text-align: center;
   font-size: 30px;
