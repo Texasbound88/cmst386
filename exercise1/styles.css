@@ -4,27 +4,18 @@ body {
     background-size: auto;
 }
 
-#disney {
-    float: none;
-}
-
-#owl {
-    float: none;
-}
-
-#ball {
-  float: none;
-}
-
-#nemo {
-  margin-left: auto;
- margin-right: auto;
+h1{
+  text-align: center;
 }
 
 h2{
   text-align: center;
   text-decoration: underline;
   font-weight: bold;
+}
+
+h3{
+  text-align: center;
 }
 
 p{
@@ -42,14 +33,23 @@ p a:hover {
   font-weight: bold;
 }
 
-h3{
-  text-align: center;
-}
-
-h1{
-  text-align: center;
-}
-
 #center{
   text-align: center;
+}
+
+#disney {
+    float: none;
+}
+
+#owl {
+    float: none;
+}
+
+#ball {
+  float: none;
+}
+
+#nemo {
+  margin-left: auto;
+ margin-right: auto;
 }
