@@ -32,6 +32,8 @@ nav.nav {
   font-family: Verdana, Geneva, sans-serif;
   text-align: center;
   min-height: 25px;
+  background-color: black;
+  color: white;
 }
 
 p {
