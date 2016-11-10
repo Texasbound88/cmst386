@@ -19,8 +19,8 @@ h3{
 }
 
 nav a:hover {
-    background-color: yellow;
-    color:black
+    background-color: red;
+    color:black;
 }
 
 nav.nav {
