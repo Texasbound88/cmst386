@@ -18,11 +18,7 @@ h3{
   text-align: center;
 }
 
-p{
-  text-align: center;
-}
-
-p a:hover {
+nav a:hover {
     background-color: yellow;
     color:black
 }
@@ -34,7 +30,8 @@ nav {
   font-size: 18px;
   padding: 4px;
   font-family: Verdana, Geneva, sans-serif;
-  text-align: center; min-height: 25px;
+  text-align: center;
+  min-height: 25px;
 }
 
 #home {
