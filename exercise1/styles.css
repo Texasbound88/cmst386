@@ -23,7 +23,7 @@ nav a:hover {
     color:black
 }
 
-nav.nav {
+nav {
   top:10px;
   border-radius: 25px;
   border: 4px outset #FFEBCD;
