@@ -26,7 +26,7 @@ nav a:hover {
 nav.nav {
   top:10px;
   border-radius: 25px;
-  border: 4px outset white;
+  border: 4px outset #FFEBCD;
   font-size: 18px;
   padding: 4px;
   font-family: Verdana, Geneva, sans-serif;
@@ -34,6 +34,7 @@ nav.nav {
   min-height: 25px;
   background-color: black;
   color: white;
+  text-decoration-color: white;
 }
 
 p {
